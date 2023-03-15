@@ -1,10 +1,10 @@
 [
   {
-    "package": "PupillometryR",
+    "package": "eyetrackingR",
     "oncran": true
   },
   {
-    "package": "eyetrackingR",
+    "package": "PupillometryR",
     "oncran": true
   }
 ]
