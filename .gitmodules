@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "eyetrackingR"]
-	path = eyetrackingR
-	url = https://github.com/samhforbes/eyetrackingr
 [submodule "PupillometryR"]
 	path = PupillometryR
 	url = https://github.com/samhforbes/pupillometryr
+[submodule "eyetrackingR"]
+	path = eyetrackingR
+	url = https://github.com/samhforbes/eyetrackingr
